@@ -2,15 +2,15 @@
 <a href="https://www.instagram.com/vaimpier_ritik/">
   <img align="left" alt="Vaimpier Ritik Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/vaimpier_ritik">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<!--a href="https://discord.gg/vaimpier_ritik">
+  <img align="left" alt=" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/vaimpier_ritik">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vaimpier_ritik/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a-->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vaimpier_ritik.vaimpier_ritik)
